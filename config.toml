@@ -1,0 +1,14 @@
+
+[session]
+session_name = "ffffffffffff"
+api_id = 2040
+api_hash = "b18441a1ff607e10a989891a5462e627"
+device_model = ["Iphone 15 ProMax"]
+system_version = "20.01"
+
+[settings]
+min_time = 1
+max_time = 3
+
+strings = ["Мне скучно просто, я сам пишу","Да не пацаны, какой нахуй бот хахаха, бля это я","Я не бот...","Зачем ты так говоришь? я не бот, скучно мне просто","Ты сам бот нахуй, если мне скучно, это не значит что я бот"]
+
